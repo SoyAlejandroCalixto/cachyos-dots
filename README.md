@@ -9,7 +9,7 @@
 
 * ### 📦 - Packages
     ```zsh
-    sudo pacman -Syu && sudo pacman -S --noconfirm --needed github-cli neovim ttf-cascadia-code-nerd inter-font zoxide atuin bat lsd discord obs-studio davinci-resolve audacity spotify-launcher zed bitwarden qbittorrent umu-launcher
+    sudo pacman -Syu && sudo pacman -S --noconfirm --needed github-cli neovim ttf-cascadia-code-nerd inter-font zoxide atuin bat lsd discord obs-studio davinci-resolve audacity spotify-launcher zed bitwarden qbittorrent umu-launcher cloudflare-warp-bin
 
     paru -S --noconfirm --needed pamac-aur fnm wezterm-nightly-bin
     ```
