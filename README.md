@@ -15,7 +15,8 @@
 * ### 📦 - Other things
     ```zsh
     # Start the Cloudflare Warp daemon
-    sudo systemctl enable warp-svc && sudo systemctl start warp-svc && warp-cli registration new
+    sudo systemctl enable warp-svc && sudo systemctl start warp-svc
+    warp-cli registration new
     ```
 
 * ### 🎨 - KDE theme
